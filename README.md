@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faraz0
 - 👀 I’m interested in building high qulaity applications that make your life easier
 - 🌱 I’m currently learning Next.js 12
-- 💞️ I’m looking to collaborate on any projects that designing beautiful web applications
+- 💞️ I’m looking to collaborate on any web development projects
 - 📫 How to reach me m2faraz@uwaterloo.ca
 
 <!---
